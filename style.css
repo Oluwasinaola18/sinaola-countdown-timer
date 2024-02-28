@@ -1,0 +1,39 @@
+body { 
+    font-family: Arail, sans-serif;
+    line-height: 1.6;
+    text-align: center;
+    padding: 3rem;
+    background-color: aquamarine;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+#countdown{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.button{
+    display: inline-block;
+    padding: 0.5rem 2rem;
+    background-color: beige;
+    color: blue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+
+.button:hover{
+    background-color: antiquewhite;
+}
